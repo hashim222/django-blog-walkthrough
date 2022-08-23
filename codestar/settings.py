@@ -34,7 +34,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "hashim-codestar.herokuapp.com", "localhost"
+    "hashim-codestar.herokuapp.com", "127.0.0.1"
 ]
 
 
@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
+    'django_summernote',
     'blog'
 ]
 
