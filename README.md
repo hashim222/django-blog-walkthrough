@@ -1,5 +1,5 @@
 
-Live Preview 'https://hash-dental-care.herokuapp.com/'
+Live Preview 'https://hashim-codestar.herokuapp.com/'
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
